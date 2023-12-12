@@ -1,0 +1,67 @@
+.about-container {
+  margin: 50px;
+  background-color: rgb(62, 62, 62);
+  padding: 20px;
+  border-radius: 20px;
+  color: white;
+}
+
+.about-container h1 {
+  color: white;
+}
+
+.about-container button {
+  background-color: white;
+  border: 2px solid white;
+  padding: 10px;
+  cursor: pointer;
+}
+.message-form {
+  margin: 50px;
+  background-color: rgb(62, 62, 62);
+  padding: 20px;
+  border-radius: 20px;
+  color: white;
+}
+
+.message-form label {
+  display: block;
+  margin-bottom: 10px;
+  color: white;
+}
+
+.message-form input {
+  width: 100%;
+  padding: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.message-form button {
+  background-color: #fff;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.message-form button:hover {
+  background-color: #eee;
+}
+
+.NewsUpdate {
+  margin: 50px;
+  background-color: rgb(62, 62, 62);
+  padding: 40px;
+  border-radius: 20px;
+  text-align: center;
+}
+
+.NewsUpdate h2,
+p {
+  color: #fff;
+}
+.NewsUpdate p {
+  margin-top: 50px;
+}

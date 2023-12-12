@@ -1,0 +1,15 @@
+/* footer.css */
+
+.main-footer {
+  background-color: rgba(45, 62, 54, 0.9); /* Ubah nilai alpha (terakhir) sesuai dengan tingkat transparansi yang diinginkan (0 hingga 1) */
+  color: #fff; /* Ubah sesuai dengan warna teks yang diinginkan */
+  padding: 10px 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.footer-text {
+  margin-bottom: 0;
+  text-align: center;
+}
